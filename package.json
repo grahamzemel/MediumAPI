@@ -1,0 +1,32 @@
+{
+  "name": "mediumapi",
+  "version": "1.0.0",
+  "description": "An unofficial API for the writing platform medium.com",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/grahamzemel/MediumAPI.git"
+  },
+  "keywords": [
+    "medium",
+    "writing",
+    "blogging",
+    "api",
+    "programming"
+  ],
+  "author": "Graham Zemel",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/grahamzemel/MediumAPI/issues"
+  },
+  "homepage": "https://github.com/grahamzemel/MediumAPI#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "mongodb": "^4.11.0",
+    "mongoose": "^6.7.0"
+  }
+}
