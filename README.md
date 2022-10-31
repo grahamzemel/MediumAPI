@@ -1,2 +1,2 @@
-# MediumAPI
-An unofficial API to be used with the writing platform Medium.com
+# Medium API
+An first go at creating an API

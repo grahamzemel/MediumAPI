@@ -23,4 +23,4 @@ app.get('*', (req, res)=>{
 res.status(404).send({url: req.originalUrl + ' not found'})
 })
 app.listen(port);
-console.log('Medium API server started on: ' + port);
+console.log('Article API server started on: ' + port);

@@ -1,7 +1,7 @@
 {
   "name": "mediumapi",
   "version": "1.0.0",
-  "description": "An unofficial API for the writing platform medium.com",
+  "description": "An unofficial API to create articles with",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -12,7 +12,6 @@
     "url": "git+https://github.com/grahamzemel/MediumAPI.git"
   },
   "keywords": [
-    "medium",
     "writing",
     "blogging",
     "api",
